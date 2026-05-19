@@ -1,7 +1,5 @@
 ## Olá! Eu me chamo Brenno 
 
-![Snake animation](https://github.com/BrennoSantos12/BrennoSantos12/blob/output/github-contribution-grid-snake-dark.svg)
-
 ## Tecnologias que eu uso no meu dia a dia
 <div style="display: inline_block">
   <img align="center" alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
