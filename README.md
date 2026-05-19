@@ -1,5 +1,4 @@
 ## Olá! Eu me chamo Brenno 
-![Brenno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrennoSantos12&show_icons=true&theme=dracula&count_private=true)
 
 ![Snake animation](https://github.com/BrennoSantos12/BrennoSantos12/blob/output/github-contribution-grid-snake.svg)
 
