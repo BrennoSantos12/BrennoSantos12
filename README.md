@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Brenno 
 
-![Snake animation](https://github.com/BrennoSantos12/BrennoSantos12/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BrennoSantos12/BrennoSantos12/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## Tecnologias que eu uso no meu dia a dia
 <div style="display: inline_block">
